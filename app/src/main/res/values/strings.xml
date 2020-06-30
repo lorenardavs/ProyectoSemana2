@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario proyecto</string>
+    <string name="descripcion_contacto">Descripcion Contacto</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="fecha">Fecha de nacimiento:</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
